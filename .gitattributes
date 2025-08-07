@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.db linguist-language=SQL
+*.db linguist-detectable=true
